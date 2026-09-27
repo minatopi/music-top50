@@ -1,14 +1,14 @@
 {
   "playlist": "Top 50 - Japan",
   "playlist_id": "37i9dQZEVXbKXQ4mDTEBXq",
-  "fetched_at": "2026-09-26T03:51:28.728781+00:00",
+  "fetched_at": "2026-09-27T04:00:49.530667+00:00",
   "tracks": [
     {
       "rank": 1,
       "title": "Yes! 東京",
       "artist": "EBiDAN (恵比寿学園男子部)",
       "duration": "3:40",
-      "play_count": 291540,
+      "play_count": 271460,
       "spotify_url": "https://open.spotify.com/intl-ja/track/7L1UsUbSqowTKwrgT0v8AS"
     },
     {
@@ -16,7 +16,7 @@
       "title": "Brand New",
       "artist": "Mrs. GREEN APPLE",
       "duration": "3:31",
-      "play_count": 237372,
+      "play_count": 222487,
       "spotify_url": "https://open.spotify.com/intl-ja/track/3Z8NMM7IRu4YKDHBo6vmX3"
     },
     {
@@ -24,7 +24,7 @@
       "title": "ブルーアンバー",
       "artist": "back number",
       "duration": "3:27",
-      "play_count": 231817,
+      "play_count": 218107,
       "spotify_url": "https://open.spotify.com/intl-ja/track/35MeePbBnryubkVG0v8GbI"
     },
     {
@@ -32,376 +32,376 @@
       "title": "花束",
       "artist": "back number",
       "duration": "4:46",
-      "play_count": 211282,
+      "play_count": 203711,
       "spotify_url": "https://open.spotify.com/intl-ja/track/3QIAwtEEDOrv0g5NKCGrXZ"
     },
     {
       "rank": 5,
-      "title": "高嶺の花子さん",
-      "artist": "back number",
-      "duration": "4:54",
-      "play_count": 198250,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/2jdbZGFp8KVTuk0YxDNL4l"
-    },
-    {
-      "rank": 6,
-      "title": "水平線",
-      "artist": "back number",
-      "duration": "4:48",
-      "play_count": 193613,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/3RvdkNMcSy71m0aT6UF9Uf"
-    },
-    {
-      "rank": 7,
       "title": "運命さがし",
       "artist": "マカロニえんぴつ",
       "duration": "3:25",
-      "play_count": 190102,
+      "play_count": 190951,
       "spotify_url": "https://open.spotify.com/intl-ja/track/76lukrvGiAM7GBcjE4Gx4h"
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "title": "高嶺の花子さん",
+      "artist": "back number",
+      "duration": "4:54",
+      "play_count": 187885,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/2jdbZGFp8KVTuk0YxDNL4l"
+    },
+    {
+      "rank": 7,
       "title": "FOR OKINAWA (feat. Awich, CHICO CARLITO, ONE OK ROCK & Paledusk)",
       "artist": "YAO",
       "duration": "3:54",
-      "play_count": 189808,
+      "play_count": 184144,
       "spotify_url": "https://open.spotify.com/intl-ja/track/03PGemRNLrjn9Efmy2y6OY"
     },
     {
-      "rank": 9,
-      "title": "BUGS LIFE",
-      "artist": "Number_i",
-      "duration": "2:59",
-      "play_count": 189421,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/3o9jxRsczWG6Juy1KTDNuG"
+      "rank": 8,
+      "title": "水平線",
+      "artist": "back number",
+      "duration": "4:48",
+      "play_count": 183464,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/3RvdkNMcSy71m0aT6UF9Uf"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Sukisugite METSU!",
       "artist": "M!LK",
       "duration": "3:32",
-      "play_count": 187243,
+      "play_count": 179104,
       "spotify_url": "https://open.spotify.com/intl-ja/track/4Re9Zb9uYlMtMiZy7HFFw5"
     },
     {
-      "rank": 11,
-      "title": "Toki Koete Universe",
-      "artist": "M!LK",
-      "duration": "3:31",
-      "play_count": 186985,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/4KzvEQIuSiRjv6n03kSbyW"
-    },
-    {
-      "rank": 12,
+      "rank": 10,
       "title": "点描の唄",
       "artist": "Mrs. GREEN APPLE",
       "duration": "5:07",
-      "play_count": 179134,
+      "play_count": 177052,
       "spotify_url": "https://open.spotify.com/intl-ja/track/1sIIlVrnPhrvmTrHtzM7tV"
     },
     {
-      "rank": 13,
+      "rank": 11,
+      "title": "BUGS LIFE",
+      "artist": "Number_i",
+      "duration": "2:59",
+      "play_count": 176056,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/3o9jxRsczWG6Juy1KTDNuG"
+    },
+    {
+      "rank": 12,
       "title": "ハッピーエンド",
       "artist": "back number",
       "duration": "5:14",
-      "play_count": 176721,
+      "play_count": 173277,
       "spotify_url": "https://open.spotify.com/intl-ja/track/4GqO80eGXA542oTvlYv4LS"
     },
     {
+      "rank": 13,
+      "title": "Toki Koete Universe",
+      "artist": "M!LK",
+      "duration": "3:31",
+      "play_count": 170732,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/4KzvEQIuSiRjv6n03kSbyW"
+    },
+    {
       "rank": 14,
-      "title": "Marigold",
-      "artist": "あいみょん",
-      "duration": "5:06",
-      "play_count": 176443,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/5NqGfELjcdvRIUuhgZJ34W"
+      "title": "青と夏",
+      "artist": "Mrs. GREEN APPLE",
+      "duration": "4:30",
+      "play_count": 168683,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/5BC6kr6etk2Y9J62AyI4i3"
     },
     {
       "rank": 15,
-      "title": "Soranji",
-      "artist": "Mrs. GREEN APPLE",
-      "duration": "5:43",
-      "play_count": 173381,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/3YML5IHoqWbw9c9vJJvrvM"
+      "title": "Marigold",
+      "artist": "あいみょん",
+      "duration": "5:06",
+      "play_count": 166936,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/5NqGfELjcdvRIUuhgZJ34W"
     },
     {
       "rank": 16,
       "title": "ライラック",
       "artist": "Mrs. GREEN APPLE",
       "duration": "4:49",
-      "play_count": 169963,
+      "play_count": 164941,
       "spotify_url": "https://open.spotify.com/intl-ja/track/21VsLvoE7elUmJZLSawaMh"
     },
     {
       "rank": 17,
-      "title": "青と夏",
-      "artist": "Mrs. GREEN APPLE",
-      "duration": "4:30",
-      "play_count": 168260,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/5BC6kr6etk2Y9J62AyI4i3"
+      "title": "君はロックを聴かない",
+      "artist": "あいみょん",
+      "duration": "4:06",
+      "play_count": 164378,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/59eluCMn0XbOWqeWQ91FTM"
     },
     {
       "rank": 18,
-      "title": "マイオンリー",
-      "artist": "SixTONES",
-      "duration": "3:46",
-      "play_count": 167620,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/0CeyAPE5CjL749WIjveUAc"
+      "title": "Soranji",
+      "artist": "Mrs. GREEN APPLE",
+      "duration": "5:43",
+      "play_count": 161213,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/3YML5IHoqWbw9c9vJJvrvM"
     },
     {
       "rank": 19,
       "title": "It's Me",
       "artist": "ILLIT",
       "duration": "2:18",
-      "play_count": 166690,
+      "play_count": 159817,
       "spotify_url": "https://open.spotify.com/intl-ja/track/1D5L58KLBbceOynTP4DQnY"
     },
     {
       "rank": 20,
-      "title": "君はロックを聴かない",
-      "artist": "あいみょん",
-      "duration": "4:06",
-      "play_count": 165458,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/59eluCMn0XbOWqeWQ91FTM"
-    },
-    {
-      "rank": 21,
       "title": "IRIS OUT",
       "artist": "米津玄師",
       "duration": "2:31",
-      "play_count": 163499,
+      "play_count": 158290,
       "spotify_url": "https://open.spotify.com/intl-ja/track/59hVbgr8rfYkDbHfr8RcGI"
+    },
+    {
+      "rank": 21,
+      "title": "マイオンリー",
+      "artist": "SixTONES",
+      "duration": "3:46",
+      "play_count": 156518,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/0CeyAPE5CjL749WIjveUAc"
     },
     {
       "rank": 22,
       "title": "Bakuretsu Aishiteru",
       "artist": "M!LK",
       "duration": "3:25",
-      "play_count": 161462,
+      "play_count": 154839,
       "spotify_url": "https://open.spotify.com/intl-ja/track/73WjupQhQmQUOgCl7dXpvN"
     },
     {
       "rank": 23,
-      "title": "Kaiju no Hanauta",
-      "artist": "Vaundy",
-      "duration": "3:44",
-      "play_count": 150549,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/3gQ19Wo6CbBpdHYmt2GVt0"
+      "title": "DIGITAL GIRL",
+      "artist": "Number_i",
+      "duration": "2:19",
+      "play_count": 151100,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/45Us1IGeAiIRmj3bKWaAkH"
     },
     {
       "rank": 24,
-      "title": "HAPPY BIRTHDAY",
-      "artist": "back number",
-      "duration": "4:18",
-      "play_count": 147332,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/4FMz2RFrbDGzJO7K4D0vS3"
+      "title": "Kaiju no Hanauta",
+      "artist": "Vaundy",
+      "duration": "3:44",
+      "play_count": 144512,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/3gQ19Wo6CbBpdHYmt2GVt0"
     },
     {
       "rank": 25,
-      "title": "夢中",
-      "artist": "BE:FIRST",
-      "duration": "3:09",
-      "play_count": 146195,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/7KNY1e9x1MDvpBAmIAN3tz"
-    },
-    {
-      "rank": 26,
-      "title": "ダーリン",
-      "artist": "Mrs. GREEN APPLE",
-      "duration": "4:38",
-      "play_count": 145678,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/7ikOwlVju9HYUKthPiNHwr"
-    },
-    {
-      "rank": 27,
-      "title": "見知らぬ糸",
-      "artist": "スピッツ",
-      "duration": "4:11",
-      "play_count": 145229,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/01Wc6RiaghdtkpJXV9WmAj"
-    },
-    {
-      "rank": 28,
       "title": "Blue Jeans",
       "artist": "HANA",
       "duration": "3:27",
-      "play_count": 144525,
+      "play_count": 144094,
       "spotify_url": "https://open.spotify.com/intl-ja/track/6hnk0Fesq9JOhWpck8HJsj"
     },
     {
-      "rank": 29,
-      "title": "恋",
+      "rank": 26,
+      "title": "HAPPY BIRTHDAY",
       "artist": "back number",
-      "duration": "4:13",
-      "play_count": 144119,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/7f9DsQEsIoeTwKxV6shsom"
+      "duration": "4:18",
+      "play_count": 143165,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/4FMz2RFrbDGzJO7K4D0vS3"
+    },
+    {
+      "rank": 27,
+      "title": "ダーリン",
+      "artist": "Mrs. GREEN APPLE",
+      "duration": "4:38",
+      "play_count": 142528,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/7ikOwlVju9HYUKthPiNHwr"
+    },
+    {
+      "rank": 28,
+      "title": "夢中",
+      "artist": "BE:FIRST",
+      "duration": "3:09",
+      "play_count": 139572,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/7KNY1e9x1MDvpBAmIAN3tz"
+    },
+    {
+      "rank": 29,
+      "title": "夜の踊り子",
+      "artist": "サカナクション",
+      "duration": "5:02",
+      "play_count": 139352,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/6qB3lZIfnDC8TE2245NDtO"
     },
     {
       "rank": 30,
       "title": "幸せ",
       "artist": "back number",
       "duration": "6:37",
-      "play_count": 140906,
+      "play_count": 138681,
       "spotify_url": "https://open.spotify.com/intl-ja/track/1YVuXOCjN1GkGYqZ8RCcF3"
     },
     {
       "rank": 31,
-      "title": "夜の踊り子",
-      "artist": "サカナクション",
-      "duration": "5:02",
-      "play_count": 138907,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/6qB3lZIfnDC8TE2245NDtO"
+      "title": "恋",
+      "artist": "back number",
+      "duration": "4:13",
+      "play_count": 138666,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/7f9DsQEsIoeTwKxV6shsom"
     },
     {
       "rank": 32,
-      "title": "DIGITAL GIRL",
+      "title": "REBON",
       "artist": "Number_i",
-      "duration": "2:19",
-      "play_count": 136986,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/45Us1IGeAiIRmj3bKWaAkH"
+      "duration": "2:39",
+      "play_count": 138230,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/7hORRB8tJcRsi9aK0D0LGc"
     },
     {
       "rank": 33,
-      "title": "ヒロイン",
-      "artist": "back number",
-      "duration": "4:29",
-      "play_count": 134590,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/3hBAYbAECEix9raaTq8S3H"
+      "title": "見知らぬ糸",
+      "artist": "スピッツ",
+      "duration": "4:11",
+      "play_count": 138067,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/01Wc6RiaghdtkpJXV9WmAj"
     },
     {
       "rank": 34,
-      "title": "IDOLPOWER",
-      "artist": "M!LK",
-      "duration": "3:51",
-      "play_count": 134230,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/5flmZ1OkDKwTfBB059ecZc"
+      "title": "君の恋人になったら",
+      "artist": "back number",
+      "duration": "4:04",
+      "play_count": 132244,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/0k4KaqElLVjdR6sVHPTS6h"
     },
     {
       "rank": 35,
-      "title": "愛を伝えたいだとか",
-      "artist": "あいみょん",
-      "duration": "3:55",
-      "play_count": 132985,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/0N8Xztr4pBHJ7V0moJWhbO"
+      "title": "ヒロイン",
+      "artist": "back number",
+      "duration": "4:29",
+      "play_count": 129394,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/3hBAYbAECEix9raaTq8S3H"
     },
     {
       "rank": 36,
-      "title": "Naked Heart",
+      "title": "愛を伝えたいだとか",
       "artist": "あいみょん",
-      "duration": "4:56",
-      "play_count": 131829,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/2cTaSKEc8OZdF6Tpg2QQsS"
+      "duration": "3:55",
+      "play_count": 128680,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/0N8Xztr4pBHJ7V0moJWhbO"
     },
     {
       "rank": 37,
-      "title": "Missing",
-      "artist": "BE:FIRST",
-      "duration": "2:52",
-      "play_count": 131450,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/1zsPhef2vOQaRSj1H7yvXq"
+      "title": "Naked Heart",
+      "artist": "あいみょん",
+      "duration": "4:56",
+      "play_count": 128319,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/2cTaSKEc8OZdF6Tpg2QQsS"
     },
     {
       "rank": 38,
       "title": "lulu.",
       "artist": "Mrs. GREEN APPLE",
       "duration": "4:30",
-      "play_count": 131407,
+      "play_count": 128072,
       "spotify_url": "https://open.spotify.com/intl-ja/track/0vE1WglBbhmd5wDO49lcih"
     },
     {
       "rank": 39,
-      "title": "REBON",
-      "artist": "Number_i",
-      "duration": "2:39",
-      "play_count": 130120,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/7hORRB8tJcRsi9aK0D0LGc"
-    },
-    {
-      "rank": 40,
-      "title": "君の恋人になったら",
-      "artist": "back number",
-      "duration": "4:04",
-      "play_count": 130079,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/0k4KaqElLVjdR6sVHPTS6h"
-    },
-    {
-      "rank": 41,
-      "title": "ケセラセラ",
-      "artist": "Mrs. GREEN APPLE",
-      "duration": "4:32",
-      "play_count": 129618,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/0teqQ0PYqVDyyXJuPOyMhu"
-    },
-    {
-      "rank": 42,
-      "title": "愛をこめて花束を",
-      "artist": "Superfly",
-      "duration": "4:55",
-      "play_count": 129305,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/7CmWXD3w1xOO53AAO4LRVQ"
-    },
-    {
-      "rank": 43,
-      "title": "You!Joy!Parade!",
-      "artist": "M!LK",
-      "duration": "3:02",
-      "play_count": 126660,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/4Y5DpxswrdFE4u7jb8XiLf"
-    },
-    {
-      "rank": 44,
-      "title": "恋、はじめました。",
-      "artist": "=LOVE",
-      "duration": "3:38",
-      "play_count": 125225,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/1DkRsJu6pgBkyt016HlPdZ"
-    },
-    {
-      "rank": 45,
-      "title": "奏(かなで)",
-      "artist": "スキマスイッチ",
-      "duration": "5:28",
-      "play_count": 125180,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/5RbMlPFL4gVyEHW2lEOuzG"
-    },
-    {
-      "rank": 46,
-      "title": "革命道中 - On The Way",
-      "artist": "アイナ・ジ・エンド",
-      "duration": "3:17",
-      "play_count": 124759,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/1oFqKeepmT5S8BCGqJl7Ar"
-    },
-    {
-      "rank": 47,
       "title": "僕のこと",
       "artist": "Mrs. GREEN APPLE",
       "duration": "5:21",
-      "play_count": 124755,
+      "play_count": 127195,
       "spotify_url": "https://open.spotify.com/intl-ja/track/0tnhoHUrHfcLi9hPknUFZ4"
     },
     {
-      "rank": 48,
+      "rank": 40,
+      "title": "愛をこめて花束を",
+      "artist": "Superfly",
+      "duration": "4:55",
+      "play_count": 125534,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/7CmWXD3w1xOO53AAO4LRVQ"
+    },
+    {
+      "rank": 41,
+      "title": "奏(かなで)",
+      "artist": "スキマスイッチ",
+      "duration": "5:28",
+      "play_count": 125452,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/5RbMlPFL4gVyEHW2lEOuzG"
+    },
+    {
+      "rank": 42,
+      "title": "IDOLPOWER",
+      "artist": "M!LK",
+      "duration": "3:51",
+      "play_count": 124942,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/5flmZ1OkDKwTfBB059ecZc"
+    },
+    {
+      "rank": 43,
+      "title": "Missing",
+      "artist": "BE:FIRST",
+      "duration": "2:52",
+      "play_count": 123679,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/1zsPhef2vOQaRSj1H7yvXq"
+    },
+    {
+      "rank": 44,
+      "title": "ケセラセラ",
+      "artist": "Mrs. GREEN APPLE",
+      "duration": "4:32",
+      "play_count": 122793,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/0teqQ0PYqVDyyXJuPOyMhu"
+    },
+    {
+      "rank": 45,
+      "title": "革命道中 - On The Way",
+      "artist": "アイナ・ジ・エンド",
+      "duration": "3:17",
+      "play_count": 120612,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/1oFqKeepmT5S8BCGqJl7Ar"
+    },
+    {
+      "rank": 46,
       "title": "恋人ごっこ",
       "artist": "マカロニえんぴつ",
       "duration": "3:20",
-      "play_count": 124751,
+      "play_count": 118025,
       "spotify_url": "https://open.spotify.com/intl-ja/track/2SihT7AVMiI2VtaAyVIcnO"
+    },
+    {
+      "rank": 47,
+      "title": "You!Joy!Parade!",
+      "artist": "M!LK",
+      "duration": "3:02",
+      "play_count": 117363,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/4Y5DpxswrdFE4u7jb8XiLf"
+    },
+    {
+      "rank": 48,
+      "title": "烏 - Raven",
+      "artist": "米津玄師",
+      "duration": "4:08",
+      "play_count": 116610,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/5Ij88F5dK7yib1RoNA8wGV"
     },
     {
       "rank": 49,
       "title": "ただ君に晴れ",
       "artist": "ヨルシカ",
       "duration": "3:18",
-      "play_count": 124393,
+      "play_count": 116591,
       "spotify_url": "https://open.spotify.com/intl-ja/track/3wJHCry960drNlAUGrJLmz"
     },
     {
       "rank": 50,
-      "title": "烏 - Raven",
-      "artist": "米津玄師",
-      "duration": "4:08",
-      "play_count": 122193,
-      "spotify_url": "https://open.spotify.com/intl-ja/track/5Ij88F5dK7yib1RoNA8wGV"
+      "title": "恋、はじめました。",
+      "artist": "=LOVE",
+      "duration": "3:38",
+      "play_count": 115957,
+      "spotify_url": "https://open.spotify.com/intl-ja/track/1DkRsJu6pgBkyt016HlPdZ"
     }
   ]
 }
